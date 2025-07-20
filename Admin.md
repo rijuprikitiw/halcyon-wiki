@@ -2,7 +2,7 @@
 
 Berikut adalah daftar Admin aktif komunitas Halcyon:
 
-- Rijuprikitiw (Admin)  
+- Rizu/Ryuu (Owner)  
 - Vexz (Helper)
 - ItsVloridzz (ADmin)  
 - PaymonReal (Developer)

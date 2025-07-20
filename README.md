@@ -1,4 +1,4 @@
 # Selamat Datang di Halcyon Wiki
 
-Wiki komunitas Minecraft **Halcyon** ini menggunakan Docsify dan di‑hosting di GitHub Pages.  
+Wiki komunitas Minecraft **Halcyon Community**.  
 Gunakan menu di samping untuk navigasi halaman‑halaman wiki.
